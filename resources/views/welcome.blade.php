@@ -12,7 +12,6 @@
 </head>
 <body class="antialiased">
 <div id="app">
-    <div class="font-mono">Test</div>
 </div>
 
 <script src="{{ asset('js/app.js') }}">
